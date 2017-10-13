@@ -1,2 +1,0 @@
-import './getAppById';
-import './getAppByDomain';
