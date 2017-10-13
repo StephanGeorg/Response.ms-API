@@ -34,6 +34,7 @@
     "express-graphql": "^0.6.7",
     "graphql": "^0.10.5",
     "graphql-query-builder": "^1.0.7",
+    "is-http2": "https://github.com/StephanGeorg/is-http2.git",
     "lodash": "^4.17.4",
     "mongodb": "^2.2.33",
     "node-dig-dns": "^0.2.7",
@@ -43,6 +44,7 @@
     "request": "^2.83.0",
     "request-promise": "^4.2.1",
     "sinon": "^3.2.1",
-    "sinon-chai": "^2.13.0"
+    "sinon-chai": "^2.13.0",
+    "tcp-ping": "^0.1.1"
   }
 }
